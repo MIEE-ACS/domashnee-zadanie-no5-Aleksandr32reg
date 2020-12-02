@@ -1,0 +1,27 @@
+﻿<Window x:Class="DZ_5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ_5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="RadiusTB" HorizontalAlignment="Left" Margin="54,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <Button x:Name="CreateCircleBtn" Content="Добавить круг в список" HorizontalAlignment="Left" Margin="213,32,0,0" VerticalAlignment="Top" Width="155" Click="CreateCircleBtn_Click"/>
+        <TextBox x:Name="xTB" HorizontalAlignment="Left" Height="20" Margin="429,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48"/>
+        <TextBox x:Name="yTB" HorizontalAlignment="Left" Margin="525,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48" Height="20"/>
+        <TextBox x:Name="SquareTB" HorizontalAlignment="Left" Margin="236,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="LengthTB" HorizontalAlignment="Left" Margin="236,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <Label Content="Радиус" HorizontalAlignment="Left" Margin="49,6,0,0" VerticalAlignment="Top" IsHitTestVisible="False"/>
+        <Label Content="Список кругов" HorizontalAlignment="Left" Margin="49,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Площадь круга" HorizontalAlignment="Left" Margin="236,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Длина круга" HorizontalAlignment="Left" Margin="236,135,0,0" VerticalAlignment="Top"/>
+        <Label Content="X:" HorizontalAlignment="Left" Margin="404,94,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.784,0.641"/>
+        <Label Content="Y:" HorizontalAlignment="Left" Margin="501,94,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="DotResultTB" HorizontalAlignment="Left" Margin="429,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144" Visibility="Visible" Height="139"/>
+        <Button x:Name="СalculateBtn" Content="Рассчитать" HorizontalAlignment="Left" Margin="231,217,0,0" VerticalAlignment="Top" Height="57" Width="155" Click="СalculateBtn_Click"/>
+        <ListBox x:Name="CirclesLB" Margin="54,102,601,160" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Visible"/>
+
+    </Grid>
+</Window>
