@@ -1,0 +1,36 @@
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.exe
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.deps.json
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.runtimeconfig.json
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.runtimeconfig.dev.json
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.dll
+D:\Projects\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.pdb
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.csprojAssemblyReference.cache
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5_MarkupCompile.cache
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5_MarkupCompile.lref
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.g.resources
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.AssemblyInfoInputs.cache
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.AssemblyInfo.cs
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.dll
+D:\Projects\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.exe
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.deps.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.runtimeconfig.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.runtimeconfig.dev.json
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\bin\Debug\netcoreapp3.1\DZ_5.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.csprojAssemblyReference.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5_MarkupCompile.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5_MarkupCompile.lref
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.g.resources
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.csproj.CoreCompileInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.AssemblyInfoInputs.cache
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.AssemblyInfo.cs
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.dll
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.pdb
+C:\Users\alexd\OneDrive\Рабочий стол\DZ_5\obj\Debug\netcoreapp3.1\DZ_5.genruntimeconfig.cache
